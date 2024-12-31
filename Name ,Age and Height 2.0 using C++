@@ -1,0 +1,21 @@
+#include <iostream>
+int main() {
+    std::string name;
+    double age;
+    int height;
+
+    std::cout <<"What's your name?";
+    std::getline(std::cin >> std::ws , name);
+
+    std::cout <<"What's your age?";
+    std::cin>> age;
+    
+    std::cout <<"What's your height?";
+    std::cin >> height;
+
+    std::cout << "Hello " << name << "," <<'\n';
+    std::cout <<"You are " << age << " years old," << '\n';
+    std::cout <<"You are " << height << "cms.";
+
+    return 0;
+}
