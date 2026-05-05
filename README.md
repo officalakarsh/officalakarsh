@@ -17,5 +17,9 @@ Cybersecurity & GCP
 Building something crazy 🚀
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=7C3AED&size=22&center=true&vCenter=true&width=500&lines=Initializing+Terminal...;Welcome+Akarsh;Loading+Projects...;Access+Granted">
+  <img src="https://readme-typing-svg.herokuapp.com?color=7C3AED&size=22&center=true&vCenter=true&width=500&lines=Initializing+Terminal...;Welcome+Akarsh;Loading+Projects...;Access+Granted" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3b2pqNGVtZGZ3eHl2anBlOHhobXViNzloemxoaGdrbHl1NGtnbjRzcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7J4P7cUur2DlErijp3/giphy.gif" width="500"/>
 </p>
