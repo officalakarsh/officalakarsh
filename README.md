@@ -1,6 +1,6 @@
 <h1 align="center">💻 Terminal v1.0</h1>
 
-```bash
+
 > whoami
 Akarsh Singh
 
