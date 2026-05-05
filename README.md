@@ -15,3 +15,7 @@ Cybersecurity & GCP
 
 > status
 Building something crazy 🚀
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=7C3AED&size=22&center=true&vCenter=true&width=500&lines=Initializing+Terminal...;Welcome+Akarsh;Loading+Projects...;Access+Granted">
+</p>
