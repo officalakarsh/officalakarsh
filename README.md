@@ -1,19 +1,19 @@
 <h1 align="center">💻 Terminal v1.0</h1>
 
 
-> whoami
+> Who am I
 Akarsh Singh
 
-> role
+> Role
 Full Stack Developer | Problem Solver
 
-> skills
-HTML CSS JS | React | Python | Cloud
+> Skills
+HTML | CSS | JS | React | Python | Cloud
 
-> currently_learning
-Cybersecurity & GCP
+> Currently_learning
+C++ & Panda
 
-> status
+> Status
 Building something crazy 🚀
 
 <p align="center">
