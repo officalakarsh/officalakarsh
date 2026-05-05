@@ -2,18 +2,23 @@
 
 
 > Who am I
+
 Akarsh Singh
 
 > Role
+
 Full Stack Developer | Problem Solver
 
 > Skills
+
 HTML | CSS | JS | React | Python | Cloud
 
 > Currently_learning
+
 C++ & Panda
 
 > Status
+
 Building something crazy 🚀
 
 <p align="center">
