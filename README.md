@@ -57,3 +57,7 @@ Tools    : VS Code, Git
 ## 📊 System Stats
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=officalakarsh/officalakarsh&theme=tokyonight)
+
+## 🔗 Run Commands
+
+[![Contact](https://img.shields.io/badge/Run-Contact-A855F7?style=for-the-badge)](mailto:akarshsingh4171@email.com)
